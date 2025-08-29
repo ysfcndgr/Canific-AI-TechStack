@@ -2,7 +2,7 @@
 
 ![Website](https://img.shields.io/website?url=https://canific.dev)
 
-**Canific AI** is a next-generation artificial intelligence platform designed to empower developers, researchers, and creatives with powerful tools for content creation, machine learning, and real-time data processing.
+canific.dev is an AI-powered platform that instantly converts your audio and video content into accurate, easy-to-read, and summarized transcripts. Whether you’re a content creator, educator, business professional, or researcher, canific.dev helps you save time and focus on what truly matters.
 
 ---
 
