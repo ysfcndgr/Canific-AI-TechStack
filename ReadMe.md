@@ -38,7 +38,7 @@ canific.dev is an AI-powered platform that instantly converts your audio and vid
 
 ## 🧰 Tech Stack
 
-### Frontend (CanificAIUI)
+### Frontend (Canific AI UI)
 | Technology        | Version | Usage                                    |
 |-------------------|---------|------------------------------------------|
 | **Next.js**       | 14.2.24 | React framework with App Router          |
@@ -57,7 +57,7 @@ canific.dev is an AI-powered platform that instantly converts your audio and vid
 | **React Dropzone**| 14.3.8  | File upload handling                    |
 | **Next Themes**   | Latest  | Dark/light theme switching              |
 
-### Backend (CanAIBackend)
+### Backend (Canific AI Backend)
 | Technology                    | Version | Usage                                    |
 |-------------------------------|---------|------------------------------------------|
 | **.NET**                     | 9.0     | Core framework and runtime               |
