@@ -20,7 +20,7 @@
 - **Real-time media processing** with FFMpegCore
 - **High-volume data stream processing** with ultra-low latency
 
-### Creative AI Tools
+### 🎨 Creative AI Tools
 - **Google Drive & Docs API** integration for document management
 - **Advanced media processing** with FFMpegCore
 - **PDF generation** with jsPDF
